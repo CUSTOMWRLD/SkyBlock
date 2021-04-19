@@ -1,0 +1,10 @@
+name: SkyBlock
+version: ${project.version}
+main: com.customwrld.skyblock.SkyBlock
+api-version: 1.16
+authors: [ FreakingChicken ]
+description: Skyblock for CustomWRLD
+softdepend:
+  - CustomLib
+  - CommandAPI
+  - FastAsyncWorldEdit
